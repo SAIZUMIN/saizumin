@@ -1,30 +1,35 @@
 <div align="center">
 
-# 👋 Hey, I'm JODELL
+# Hi, I'm Jodell 👋
 
-### 💻 Information Technology Student | Developer | Tech Enthusiast
+### Information Technology Student • Developer • Tech Enthusiast
 
 <p>
-  <i>Building projects, learning new technologies, and improving one line of code at a time.</i>
+  I enjoy building applications, learning new technologies,
+  and turning ideas into working projects.
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=SAIZUMIN&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 4th Year **BSIT Student** from the Philippines  
-💻 Interested in **Software Development, Web Development, Software Engineer and Data Analytics**  
-🐍 Currently improving my **Python** skills  
-🌐 Interested in building useful and practical applications  
-🚀 Always learning and experimenting with new technologies
+- 🎓 4th Year **Bachelor of Science in Information Technology**
+- 🇵🇭 Based in the Philippines
+- 💻 Interested in **Software Development and Web Development**
+- 📊 Interested in **Data Analytics**
+- 🐍 Currently improving my **Python** skills
+- 🌐 Enjoy building practical applications and academic projects
+- 🚀 Always learning and improving my development skills
 
 ---
 
-## ⚡ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <div align="center">
 
@@ -32,7 +37,7 @@
 
 </div>
 
-### ⚛️ Web Development
+### 🌐 Web Development
 
 <div align="center">
 
@@ -40,7 +45,7 @@
 
 </div>
 
-### 🗄️ Database & Tools
+### 🗄️ Database & Development Tools
 
 <div align="center">
 
@@ -52,49 +57,56 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,ps" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=loydskie11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180"
+     src="https://github-readme-stats.vercel.app/api?username=SAIZUMIN&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
+     alt="Jodell's GitHub Statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loydskie11&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIZUMIN&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+     alt="Jodell's Most Used Languages"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=loydskie11&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=SAIZUMIN&hide_border=true&theme=tokyonight"
+     alt="Jodell's GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-## 📈 GitHub Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=loydskie11&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAIZUMIN&theme=tokyo-night&hide_border=true"
+     alt="Jodell's GitHub Activity Graph"/>
 
 </div>
 
 ---
 
-## 🚀 Currently Learning
+# 🚀 What I'm Working On
 
 ```text
-Python              ███████████████░░░░░
-Web Development     ██████████████░░░░░░
-Data Analytics      ████████████░░░░░░░░
-Networking          ███████████░░░░░░░░░
-Software Engineering ██████████░░░░░░░░░░
+🐍 Python
+🌐 Web Development
+⚛️ React
+📊 Data Analytics
+🗄️ Database Development
+🔧 Software Engineering
