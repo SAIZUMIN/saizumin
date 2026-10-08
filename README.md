@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Loydi
+# 👋 Hey, I'm JODELL
 
 ### 💻 Information Technology Student | Developer | Tech Enthusiast
 
@@ -15,7 +15,7 @@
 ## 🧑‍💻 About Me
 
 🎓 4th Year **BSIT Student** from the Philippines  
-💻 Interested in **Software Development, Web Development, and Data Analytics**  
+💻 Interested in **Software Development, Web Development, Software Engineer and Data Analytics**  
 🐍 Currently improving my **Python** skills  
 🌐 Interested in building useful and practical applications  
 🚀 Always learning and experimenting with new technologies
